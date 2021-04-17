@@ -19,6 +19,16 @@
 
 Machine Learning and Deep Learning are the research fields in Artificial Intelligence, which are based on parametrized modelling under the supervision of exclusive data sets. They abound with complementary concepts and approaches dedicated to endow the machines and computers with different human cognitive skills like, classification, visual perception, recognition, attention, and memory. To support the people interested in these two research fields, and its various concepts, I am preparing informative contents full of drawings and explanations in my instagram account. To consult me about these contents and Machine Learning, you can connect with me on my instagram or linkedin account. 
 
+<br><br>
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.instagram.com/gg.codes/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+<a href="https://www.linkedin.com/in/goktug-guvercin/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+<a href="mailto:goktug150140@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  <a href="https://goktugguvercin.medium.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="50" /> </a>
+</p>
+
 
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
@@ -26,21 +36,3 @@ Machine Learning and Deep Learning are the research fields in Artificial Intelli
 
 <br><br>
 
-
-
-
-
-<!--
-**GoktugGuvercin/GoktugGuvercin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
