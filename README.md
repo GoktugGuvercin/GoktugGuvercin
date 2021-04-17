@@ -20,6 +20,14 @@
 Machine Learning and Deep Learning are the research fields in Artificial Intelligence, which are based on parametrized modelling under the supervision of exclusive data sets. They abound with complementary concepts and approaches dedicated to endow the machines and computers with different human cognitive skills like, classification, visual perception, recognition, attention, and memory. To support the people interested in these two research fields, and its various concepts, I am preparing informative contents full of drawings and explanations in my instagram account. To consult me about these contents and Machine Learning, you can connect with me on my instagram or linkedin account. 
 
 
+<br><br>
+<h3 align="left">Languages and Tools:</h3>
+<code><img width="30" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" ></code>
+
+<br><br>
+
+
+
 
 
 <!--
