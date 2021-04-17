@@ -22,11 +22,7 @@ Machine Learning and Deep Learning are the research fields in Artificial Intelli
 
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
-[<img align="left" width="40" height="40" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" >]
-[<img align="left" width="30" height="30" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" >]
-[<img align="left" width="30" height="30" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" >]
-[<img align="left" width="30" height="30" alt="keras" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" >]
-[<img align="left" width="30" height="30" alt="tensorflow" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" >]
+<img align="left" width="40" height="40" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" > <img align="left" width="40" height="40" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" > <img align="left" width="40" height="40" alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" > <img align="left" width="40" height="40" alt="Haskell" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" > <img align="left" width="40" height="40" alt="matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" > <img align="left" width="60" height="40" alt="numpy" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" > <img align="left" width="60" height="40" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" > <img align="left" width="40" height="40" alt="keras" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" > <img align="left" width="40" height="40" alt="tensorflow" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" > <img align="left" width="60" height="40" alt="pybullet" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Bullet_Physics_Logo.svg" > 
 
 <br><br>
 
