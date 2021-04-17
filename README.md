@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2> Hey there! I'm Göktuğ <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+
 
 <!--
 **GoktugGuvercin/GoktugGuvercin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
