@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Göktuğ <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="IMAGE" src="https://github.com/GoktugGuvercin/GoktugGuvercin/blob/main/queen.jpg" width="350" height=350/>
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
