@@ -22,8 +22,11 @@ Machine Learning and Deep Learning are the research fields in Artificial Intelli
 
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
-<img width="30" height="30" alt="keras" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" >
-<img width="30" height="30" alt="keras" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" >
+[<img width="40" height="40" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" >]
+[<img width="30" height="30" alt="C" src="https://iconscout.com/icon/c-programming" >]
+[<img width="30" height="30" alt="keras" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" >]
+[<img width="30" height="30" alt="tensorflow" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" >]
+
 <br><br>
 
 
