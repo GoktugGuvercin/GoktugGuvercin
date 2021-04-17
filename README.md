@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Göktuğ <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h1 align="center"> Hey there! I'm Göktuğ <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
