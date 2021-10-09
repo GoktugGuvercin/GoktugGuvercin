@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💻 I'm a Machine Learning Engineer @ VakıfBank R&D Lab
+- 💻 I study for master's degree of Informatics @ Technical University of Munich
 
 - ✍️ I'm a Contributing Author @ Towards Data Science
 
@@ -23,7 +23,7 @@ Machine Learning and Deep Learning are the research fields in Artificial Intelli
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-<a href="https://www.instagram.com/gg.codes/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+<a href="https://www.instagram.com/deependorsement/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 <a href="https://www.linkedin.com/in/goktug-guvercin/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 <a href="mailto:goktug150140@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
   <a href="https://goktugguvercin.medium.com" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="50" /> </a>
