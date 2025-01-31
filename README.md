@@ -29,6 +29,7 @@
 * :microscope: [Biomedical Dictionary](https://github.com/GoktugGuvercin/Biomedical-Dictionary)
 * :atom_symbol: [Fundamentals of Linear Algebra](https://github.com/GoktugGuvercin/Linear-Algebra)
 * :dna: [Cancer Research and Proteomics](https://github.com/GoktugGuvercin/Cancer-Research)
+* :book: [LLM-ToolBox](https://github.com/GoktugGuvercin/LLM-ToolBox)
 
 <br />
 
