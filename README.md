@@ -30,7 +30,7 @@
 * :atom_symbol: [Fundamentals of Linear Algebra](https://github.com/GoktugGuvercin/Linear-Algebra)
 * :dna: [DrugProteinAnalysis](https://github.com/GoktugGuvercin/DrugProteinAnalysis)
 * :book: [LLM-ToolBox](https://github.com/GoktugGuvercin/LLM-ToolBox)
-
+* ✍️ [Deep Learning Fundamentals](https://github.com/GoktugGuvercin/The-Theory-of-Deep-Learning)
 <br />
 
 <br><br>
