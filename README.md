@@ -28,7 +28,8 @@
 
 * :pill:  Extension of Master Thesis: [Drug Protein Analysis](https://github.com/GoktugGuvercin/DrugProteinAnalysis)
 * :brain: ML Researcher @ BASIRA Lab: [BrainNet-ML-ToolBox](https://github.com/basiralab/BrainNet-ML-ToolBox) 
-* :brain: Lecture Project @ TUM-AIM Lab: [Brain Age Estimation](https://github.com/GoktugGuvercin/Brain-Age-Estimation) 
+* :brain: Lecture Project @ TUM-AIM Lab: [Brain Age Estimation](https://github.com/GoktugGuvercin/Brain-Age-Estimation)
+* :video_camera: Extension of Interdiciplinary Project: [Polyp Detection](https://github.com/GoktugGuvercin/PolypDetection)
 <br />
 
 <h3> :dizzy: Large Language Models </h3>
