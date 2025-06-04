@@ -43,6 +43,12 @@
 * :knife: [Rod Cutting](https://github.com/GoktugGuvercin/Rod-Cutting)
 <br />
 
+
+<h3> :file_folder: Data Structures </h3>
+
+* :books: [StackMaximum](https://github.com/GoktugGuvercin/StackMaximum)
+<br />
+
 <h3> ✍️ Blog Posts </h3>
 
 * :microscope: [Biomedical Dictionary](https://github.com/GoktugGuvercin/Biomedical-Dictionary)
