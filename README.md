@@ -18,45 +18,48 @@
 
 <h3> :bookmark_tabs: Thesis and Research Publications </h3>
 
-* :dna:  Proteome-Guided Drug Discovery: Illuminating Drug-Protein Interactions in Cancer *[MSc Thesis with TUM & ICL]*
-* :art: Conformable Convolution for Topologically Aware Learning of Complex Anatomical Structures [ArXiv](https://arxiv.org/abs/2412.20608)
-* :eye: SCOPE: Structural Continuity Preservation for Retinal Vessel Segmentation [MICCAI-23](https://link.springer.com/chapter/10.1007/978-3-031-55088-1_1)
-* :brain: Machine Learning Methods for Brain Network Classification [ELSEVIER](https://www.sciencedirect.com/science/article/abs/pii/S0165027020302223)
+* Proteome-Guided Drug Discovery: Illuminating Drug-Protein Interactions in Cancer *[MSc Thesis with TUM & ICL]*
+* Conformable Convolution for Topologically Aware Learning of Complex Anatomical Structures [ArXiv](https://arxiv.org/abs/2412.20608)
+* SCOPE: Structural Continuity Preservation for Retinal Vessel Segmentation [MICCAI-23](https://link.springer.com/chapter/10.1007/978-3-031-55088-1_1)
+* Machine Learning Methods for Brain Network Classification [ELSEVIER](https://www.sciencedirect.com/science/article/abs/pii/S0165027020302223)
 <br />
 
 <h3> :test_tube: Computational Biology and Medical Imaging </h3>
 
-* :pill:  Extension of Master Thesis: [Drug Protein Analysis](https://github.com/GoktugGuvercin/DrugProteinAnalysis)
-* :brain: ML Researcher @ BASIRA Lab: [BrainNet-ML-ToolBox](https://github.com/basiralab/BrainNet-ML-ToolBox) 
-* :brain: Lecture Project @ TUM-AIM Lab: [Brain Age Estimation](https://github.com/GoktugGuvercin/Brain-Age-Estimation)
-* :video_camera: Extension of Interdiciplinary Project: [Polyp Detection](https://github.com/GoktugGuvercin/PolypDetection)
+* Extension of Master Thesis: [Drug Protein Analysis](https://github.com/GoktugGuvercin/DrugProteinAnalysis)
+* ML Researcher @ BASIRA Lab: [BrainNet-ML-ToolBox](https://github.com/basiralab/BrainNet-ML-ToolBox) 
+* Lecture Project @ TUM-AIM Lab: [Brain Age Estimation](https://github.com/GoktugGuvercin/Brain-Age-Estimation)
+* Extension of Interdiciplinary Project: [Polyp Detection](https://github.com/GoktugGuvercin/PolypDetection)
 <br />
 
 <h3> :dizzy: Large Language Models </h3>
 
-* :luggage: [LLM ToolBox](https://github.com/GoktugGuvercin/LLM-ToolBox)
+* [LLM ToolBox](https://github.com/GoktugGuvercin/LLM-ToolBox)
+* [MedGemma](https://huggingface.co/spaces/goktug14/MedGemma)
+* [Retrieval Augmented Generation](https://github.com/GoktugGuvercin/Retrieval-Augmented-Generation)
+* [Embeddings](https://github.com/GoktugGuvercin/Embeddings)
 <br />
 
 <h3> :infinity: Dynamic Programming </h3>
 
-* :herb: [Fibonacci](https://github.com/GoktugGuvercin/Fibonacci)
-* :knife: [Rod Cutting](https://github.com/GoktugGuvercin/Rod-Cutting)
+* [Fibonacci](https://github.com/GoktugGuvercin/Fibonacci)
+* [Rod Cutting](https://github.com/GoktugGuvercin/Rod-Cutting)
 <br />
 
 
 <h3> :file_folder: Data Structures </h3>
 
-* :books: [StackMaximum](https://github.com/GoktugGuvercin/StackMaximum)
+* [StackMaximum](https://github.com/GoktugGuvercin/StackMaximum)
 <br />
 
 <h3> ✍️ Blog Posts </h3>
 
-* :microscope: [Biomedical Dictionary](https://github.com/GoktugGuvercin/Biomedical-Dictionary)
-* :books: [The Theory of Deep Learning](https://github.com/GoktugGuvercin/The-Theory-of-Deep-Learning)
-* :atom_symbol: [Fundamentals of Linear Algebra](https://github.com/GoktugGuvercin/Linear-Algebra)
-* :dart: [Confusion Matrix and Metrics](https://github.com/GoktugGuvercin/Confusion-Matrix)
-* :rocket: [Fundamentals of JAX](https://www.kaggle.com/code/goktugguvercin/introduction-to-jax)
-* :wrench: [ML and Optimization Theory](https://github.com/GoktugGuvercin/Machine-Learning-and-Optimization-Theory)
+* [Biomedical Dictionary](https://github.com/GoktugGuvercin/Biomedical-Dictionary)
+* [The Theory of Deep Learning](https://github.com/GoktugGuvercin/The-Theory-of-Deep-Learning)
+* [Fundamentals of Linear Algebra](https://github.com/GoktugGuvercin/Linear-Algebra)
+* [Confusion Matrix and Metrics](https://github.com/GoktugGuvercin/Confusion-Matrix)
+* [Fundamentals of JAX](https://www.kaggle.com/code/goktugguvercin/introduction-to-jax)
+* [ML and Optimization Theory](https://github.com/GoktugGuvercin/Machine-Learning-and-Optimization-Theory)
 <br />
 
 
